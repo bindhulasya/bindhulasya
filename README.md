@@ -24,7 +24,7 @@ Hi there! I'm **BindhuLasya Nandimandalam**, a passionate developer from Lakelan
   Database. Several constraints were placed on the selection of these instances from a larger database. All patients here belong to the Pima Indian 
   heritage and are females of ages 21 and above. The main goal of this project is Predicting whether the person is having diabetics or not.
 
-- **"Exploring Crime Trends in Los Angeles: An Analysis of Recent Data"**:
+- **"Exploring Crime Trends in Los Angeles: An Analysis of Recent Data"** (https://github.com/bindhulasya/Exploring-Crime-Trends-in-Los-Angeles-An-Analysis-of-Recent-Data):
   crime data in Los Angeles using R programming language. The purpose of this analysis was to understand the nature of crime in the city and identify potential hotspots and trends.
 
 - **“Life Expectancy (WHO)”**:
