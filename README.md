@@ -12,9 +12,9 @@ Hi there! I'm **BindhuLasya Nandimandalam**, a passionate developer from Lakelan
 
 ## Skills
 
-- **Programming languages**: Python, R programming, C++, JAVA, C programming
-- **Frameworks and libraries**: Pandas, NumPy, Matplotlib
-- **Tools and technologies**: Jupyter Notebook, Apache Hadoop
+- **Programming languages:** Python, R programming, C++, JAVA, C programming
+- **Frameworks and libraries:** Pandas, NumPy, Matplotlib
+- **Tools and technologies:** Jupyter Notebook, Apache Hadoop
 
 
 ## Projects
