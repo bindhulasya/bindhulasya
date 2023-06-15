@@ -19,7 +19,7 @@ Hi there! I'm **BindhuLasya Nandimandalam**, a passionate developer from Lakelan
 
 ## Projects
 
-- **“Diabetics Prediction Using Logistic Regression”**:
+- **“Diabetics Prediction Using Logistic Regression”** (https://github.com/bindhulasya/Diabetics-prediction-using-Logistic-Regression):
   The data was collected and made available by “National Institute of Diabetes and Digestive and Kidney Diseases” as part of the Pima Indians Diabetes 
   Database. Several constraints were placed on the selection of these instances from a larger database. All patients here belong to the Pima Indian 
   heritage and are females of ages 21 and above. The main goal of this project is Predicting whether the person is having diabetics or not.
